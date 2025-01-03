@@ -11,6 +11,10 @@ DNS servers are hosted by Gandi and use DNSSEC, the zone file is included.
 We don't serve any content, only the following redirects:
 * `holetopia.com` => `twitch.tv/ashleyroboto`
 * `holetopia.com/ashleyroboto` => `twitch.tv/ashleyroboto`
+* `holetopia.com/youtube` => `youtube.com/ashleyroboto`
+* `holetopia.com/vods` => `youtube.com/@ashleyrobotovods`
+* `holetopia.com/instagram` => `instagram.com/ashleyroboto`
+* `holetopia.com/tiktok` => `tiktok.com/@ashleyroboto`
 
 ## Contributing
 
