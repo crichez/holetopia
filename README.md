@@ -15,6 +15,8 @@ We don't serve any content, only the following redirects:
 * `holetopia.com/vods` => `youtube.com/@ashleyrobotovods`
 * `holetopia.com/instagram` => `instagram.com/ashleyroboto`
 * `holetopia.com/tiktok` => `tiktok.com/@ashleyroboto`
+* `holetopia.com/discord` => `discord.gg/beanboat`
+* `holetopia.com/bluesky` => `bsky.app/profile/ashleyroboto`
 
 ## Contributing
 
