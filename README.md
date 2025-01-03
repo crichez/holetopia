@@ -37,7 +37,7 @@ general, you can go ahead and create an issue or PR. Keep in mind:
 
 We depend on Debian-style `apache2`, so all you really need to do is:
 1. Configure DNS records
-2. Get a holetopia.com TLS certificate via certbot
+2. Get a (www.)holetopia.com TLS certificate via certbot
 3. Run the following:
 
 ```sh
