@@ -6,7 +6,7 @@ incapable of resisting a good bit.
 ## Overview
 
 The site is hosted using Apache httpd on Ubuntu 24.04.1 LTS.
-SSL certificates are managed by certbot and Let's Encrypt.
+TLS certificates are managed by certbot and Let's Encrypt.
 DNS servers are hosted by Gandi and use DNSSEC, the zone file is included.
 We don't serve any content, only the following redirects:
 * `holetopia.com` => `twitch.tv/ashleyroboto`
@@ -16,7 +16,7 @@ We don't serve any content, only the following redirects:
 * `holetopia.com/instagram` => `instagram.com/ashleyroboto`
 * `holetopia.com/tiktok` => `tiktok.com/@ashleyroboto`
 * `holetopia.com/discord` => `discord.gg/beanboat`
-* `holetopia.com/bluesky` => `bsky.app/profile/ashleyroboto`
+* `holetopia.com/bluesky` => `bsky.app/profile/ashleyroboto.com`
 
 ## Contributing
 
@@ -37,7 +37,7 @@ general, you can go ahead and create an issue or PR. Keep in mind:
 
 We depend on Debian-style `apache2`, so all you really need to do is:
 1. Configure DNS records
-2. Get a (www.)holetopia.com TLS certificate via certbot
+2. Get a `(www.)holetopia.com` TLS certificate via certbot
 3. Run the following:
 
 ```sh
